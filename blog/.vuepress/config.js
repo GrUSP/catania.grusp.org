@@ -1,4 +1,5 @@
 module.exports = {
+
   // Title of your website
   title: 'PUG Catania',
 
@@ -11,6 +12,18 @@ module.exports = {
       lang: 'en-US',
     },
   },
+
+  plugins: [
+    [
+      'social-share',
+      {
+        networks: ['facebook', 'telegram'],
+        fallbackImage: '/hero.png',
+        autoQuote: true,
+        isPlain: false,
+      },
+    ],
+  ],
 
   // Theme to use
   theme: 'meteorlxy',
@@ -53,8 +66,8 @@ module.exports = {
 
         // Facebook account and link
         facebook: {
-          account: 'meteorlxy.cn',
-          link: 'https://www.facebook.com/meteorlxy.cn',
+          account: 'PUG CT',
+          link: 'https://www.facebook.com/pugcatania',
         },
       },
     },
