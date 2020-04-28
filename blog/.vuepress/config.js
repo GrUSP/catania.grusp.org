@@ -26,10 +26,15 @@ module.exports = {
   ],
 
   // Theme to use
-  theme: 'meteorlxy',
+  //theme: 'meteorlxy',
+  //extend: 'vuepress-theme-meteorlxy',
 
   // Theme config
   themeConfig: {
+
+    sidebar: [
+      { text: 'Home', link: '/', exact: true },
+    ],
     // Language of this theme. See the [Theme Language] section below.
     lang: 'en-US',
 
@@ -52,7 +57,7 @@ module.exports = {
 
       // Your avatar image
       // Set to external link
-      avatar: '/assets/img/pug-catania-1.jpg',
+      avatar: '/assets/img/logo-pug-catania.jpg',
       // Or put into `.vuepress/public` directory. E.g. `.vuepress/public/img/avatar.jpg`
       // avatar: '/img/avatar.jpg',
 
@@ -60,8 +65,8 @@ module.exports = {
       sns: {
         // Github account and link
         github: {
-          account: 'meteorlxy',
-          link: 'https://github.com/meteorlxy',
+          account: 'this site',
+          link: 'https://github.com/GrUSP/catania.grusp.org',
         },
 
         // Facebook account and link
@@ -69,6 +74,12 @@ module.exports = {
           account: 'PUG CT',
           link: 'https://www.facebook.com/pugcatania',
         },
+
+        // Twitter account and link
+        twitter: {
+          account: '@CataniaPug',
+          link: 'https://twitter.com/CataniaPug'
+        }
       },
     },
 
@@ -118,6 +129,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', exact: true },
       { text: 'Posts', link: '/posts/', exact: false },
+      { text: 'Doc eventi', link: '/pages/doc-eventi/', exact: true },
       { text: 'Contatti', link: '/pages/contatti/', exact: true },
     ],
 

@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 vssue: false
 ---
 
-![alt text](/assets/img/meetup-marzo-iorestoacasa.png "Meetup di Aprile 2020 - Scrivere codice framework-agnostico grazie alle PSR")
+![alt text](/assets/img/pug-catania-meetup-aprile-pug-ct-pug-mi.jpg "Meetup di Aprile 2020 - Scrivere codice framework-agnostico grazie alle PSR")
 
 La quarantena continua ma noi non ci fermiamo e non rinunciamo al nostro consueto incontro mensile.
 

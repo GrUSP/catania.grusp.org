@@ -4,10 +4,11 @@
     "build": "vuepress build blog"
   },
   "devDependencies": {
-    "vuepress": "^1.2.0",
+    "vuepress": "^1.4.1",
     "vuepress-plugin-social-share": "^0.1.2"
   },
   "dependencies": {
-    "vuepress-theme-meteorlxy": "^1.7.1"
-  }
+    "vuepress-theme-meteorlxy": "^1.9.0"
+  },
+  "main": "layouts/Layout.vue"
 }
