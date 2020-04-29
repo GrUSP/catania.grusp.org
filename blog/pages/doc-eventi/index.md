@@ -4,6 +4,12 @@ layout: page
 permalink: /doc-eventi/
 ---
 
+# Slide Meetup Di Aprile [28-04-2020]
+
+* Framework Agnostic Code [Stefano Torrei]
+
+[Link Google Drive](https://drive.google.com/open?id=1b2mrsDjROVHKXCl0y9PMSveG9_k8WU_L)
+
 # Slide Meetup Di Marzo [25-03-2020]
 
 * Design Pattern In The Real World - Case studies Vol.1 [Sergio Sicari]
