@@ -12,6 +12,8 @@ permalink: /doc-eventi/
 
 [Repository GitHub](https://github.com/stefanotorresi/frameworkless-php-boilerplate)
 
+[Video Youtube](https://www.youtube.com/watch?v=wBO-OM6WT9U)
+
 # Slide Meetup Di Marzo [25-03-2020]
 
 * Design Pattern In The Real World - Case studies Vol.1 [Sergio Sicari]
