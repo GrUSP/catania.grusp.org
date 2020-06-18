@@ -2,7 +2,7 @@
 top: true
 layout: post
 title:  "Meetup Giugno: Gestire I Deploy Con Ansible"
-date:   2020-04-28 10:30 +0100
+date:   2020-06-18 17:00 +0100
 category: post
 tags:
     - events
