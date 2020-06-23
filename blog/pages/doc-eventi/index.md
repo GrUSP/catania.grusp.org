@@ -4,7 +4,15 @@ layout: page
 permalink: /doc-eventi/
 ---
 
-# Slide Meetup Di Aprile [28-04-2020]
+# Materiale Meetup Di Giugno [18-06-2020]
+
+* Gestire I Deploy Attraverso Ansible [Fabiano Roberto]
+
+[Link Google Drive](https://drive.google.com/file/d/1o18TOr8keqFohxmWyJYK0lghgirSIKgC/view?usp=sharing)
+
+[Video Youtube](https://youtu.be/oND5aO7lTEE)
+
+# Materiale Meetup Di Aprile [28-04-2020]
 
 * Framework Agnostic Code [Stefano Torrei]
 

@@ -30,4 +30,5 @@ Un talk molto interessante e tecnologicamente trasversale.
 
 L'appuntamento è per il `18 Giugno alle ore 18:20`
 
+
 👉 [Link al Meetup](https://www.meetup.com/it-IT/pugCatania-PHP-User-Group-Catania/events/271077366/)
